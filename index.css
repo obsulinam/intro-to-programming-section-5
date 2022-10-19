@@ -13,3 +13,7 @@ main {
 #reset {
   margin: 20px;
 }
+#less-to-cero,
+#high-to-100{
+  color: rgb(245, 7, 7);
+}
